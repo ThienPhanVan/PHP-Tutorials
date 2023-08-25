@@ -6,6 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
 </head>
+<style type="text/css">
+    .login {
+        width: 230px;
+        margin: 0;
+        padding: 10px;
+        border: 1px #CCC solid;
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    .login input {
+        padding: 5px;
+        margin: 5px
+    }
+</style>
 
 <body>
     <form method="POST">
